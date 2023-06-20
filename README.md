@@ -8,6 +8,7 @@ Before using this repository, you need to install the required packages mentione
 ```
 pip install -r requirements.txt
 ```
+Python 3.10 was used.
 
 ## Usage
 
